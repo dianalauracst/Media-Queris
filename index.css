@@ -19,15 +19,18 @@ header#encabezado {
     header#encabezado {
         background-color: purple;
         color: white;
-    }
+}
+}
 @media screen and (min-width:901px) and (max-width: 1000px){
     header#encabezado {
         background-color: #31ccd4;
         color: white;
     }
+}
     
 @media screen and (min-width:1001px) and (max-width: 1200px){
     header#encabezado {
         background-color: #d6a41a;
         color: white;
     }
+}
